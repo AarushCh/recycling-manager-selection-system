@@ -1,0 +1,63 @@
+/* Default Vite styles removed to avoid conflicts with Mantine */
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    font-family: 'Outfit', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    background: linear-gradient(-45deg, #e0f7fa, #e8f5e9, #e3f2fd, #f3e5f5);
+    background-size: 400% 400%;
+    animation: gradientBG 4s ease infinite;
+}
+
+@keyframes gradientBG {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.title-gradient {
+    background: linear-gradient(to right, #30cfd0, #330867, #30cfd0);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900 !important;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    filter: drop-shadow(0px 5px 15px rgba(0, 0, 0, 0.15));
+    font-size: 3.5rem !important;
+    text-align: center;
+    margin-bottom: 2rem !important;
+    animation: textShine 5s linear infinite;
+}
+
+@keyframes textShine {
+    to {
+        background-position: 200% center;
+    }
+}
+
+.glass-card {
+    background: rgba(255, 255, 255, 0.7) !important;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07) !important;
+}
+
+.hover-scale {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-scale:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.1) !important;
+}

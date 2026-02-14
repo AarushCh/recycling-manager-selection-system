@@ -1,0 +1,761 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Maye Larson",
+      "experience_years": 11,
+      "skills": [
+        "Waste Management",
+        "OSHA Certified"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/85302130"
+    },
+    {
+      "id": 2,
+      "name": "Brooke Maggio",
+      "experience_years": 6,
+      "skills": [
+        "OSHA Certified",
+        "Supply Chain",
+        "Waste Management"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/91.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Jose Reilly DDS",
+      "experience_years": 12,
+      "skills": [
+        "Waste Management",
+        "Team Leadership",
+        "OSHA Certified"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/84240907"
+    },
+    {
+      "id": 4,
+      "name": "Viola Hermiston DDS",
+      "experience_years": 10,
+      "skills": [
+        "Six Sigma",
+        "Lean Manufacturing"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/84.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bobby Kunze",
+      "experience_years": 10,
+      "skills": [
+        "Waste Management",
+        "Six Sigma"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/4411321"
+    },
+    {
+      "id": 6,
+      "name": "Charlotte Hills",
+      "experience_years": 13,
+      "skills": [
+        "Six Sigma",
+        "OSHA Certified",
+        "Team Leadership"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/20138421"
+    },
+    {
+      "id": 7,
+      "name": "Pearl Wiegand",
+      "experience_years": 7,
+      "skills": [
+        "Six Sigma",
+        "OSHA Certified",
+        "Lean Manufacturing",
+        "Waste Management"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/81.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Milton Nienow",
+      "experience_years": 10,
+      "skills": [
+        "Supply Chain",
+        "Lean Manufacturing",
+        "Team Leadership",
+        "Six Sigma"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/91655789"
+    },
+    {
+      "id": 9,
+      "name": "Eddie Schmeler",
+      "experience_years": 2,
+      "skills": [
+        "Lean Manufacturing",
+        "Supply Chain",
+        "OSHA Certified",
+        "Six Sigma"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/45.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Wilbur Littel",
+      "experience_years": 11,
+      "skills": [
+        "OSHA Certified",
+        "Team Leadership",
+        "Lean Manufacturing"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/44.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Mckayla Blick",
+      "experience_years": 10,
+      "skills": [
+        "Waste Management",
+        "Six Sigma"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/72059838"
+    },
+    {
+      "id": 12,
+      "name": "Alexandra Collier",
+      "experience_years": 13,
+      "skills": [
+        "Six Sigma",
+        "Lean Manufacturing",
+        "OSHA Certified",
+        "Supply Chain"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/66038213"
+    },
+    {
+      "id": 13,
+      "name": "Cindy Swaniawski",
+      "experience_years": 14,
+      "skills": [
+        "Team Leadership",
+        "Waste Management"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/16.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Randi Cormier",
+      "experience_years": 14,
+      "skills": [
+        "OSHA Certified",
+        "Lean Manufacturing",
+        "Supply Chain"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/21.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Ramiro Windler",
+      "experience_years": 8,
+      "skills": [
+        "Six Sigma",
+        "Waste Management",
+        "Lean Manufacturing",
+        "OSHA Certified"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/37.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Aylin Considine",
+      "experience_years": 11,
+      "skills": [
+        "Lean Manufacturing",
+        "Supply Chain",
+        "Team Leadership",
+        "OSHA Certified"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/62127754"
+    },
+    {
+      "id": 17,
+      "name": "Clifford Rutherford",
+      "experience_years": 7,
+      "skills": [
+        "Waste Management",
+        "Team Leadership"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/4165437"
+    },
+    {
+      "id": 18,
+      "name": "Carlton Connelly",
+      "experience_years": 7,
+      "skills": [
+        "OSHA Certified",
+        "Lean Manufacturing"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/75292613"
+    },
+    {
+      "id": 19,
+      "name": "Freda Simonis",
+      "experience_years": 5,
+      "skills": [
+        "Team Leadership",
+        "Lean Manufacturing",
+        "Waste Management"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/9022058"
+    },
+    {
+      "id": 20,
+      "name": "Patrick Keebler MD",
+      "experience_years": 2,
+      "skills": [
+        "Waste Management",
+        "Six Sigma"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/66.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Rod Lang",
+      "experience_years": 4,
+      "skills": [
+        "Lean Manufacturing",
+        "Team Leadership"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/82052747"
+    },
+    {
+      "id": 22,
+      "name": "Kellie Konopelski",
+      "experience_years": 8,
+      "skills": [
+        "OSHA Certified",
+        "Six Sigma"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/8.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Dillan Gleichner",
+      "experience_years": 5,
+      "skills": [
+        "Supply Chain",
+        "Six Sigma",
+        "Waste Management"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/84.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Rudy Ferry",
+      "experience_years": 11,
+      "skills": [
+        "Team Leadership",
+        "Lean Manufacturing",
+        "OSHA Certified"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/65283139"
+    },
+    {
+      "id": 25,
+      "name": "Dolly Yost",
+      "experience_years": 5,
+      "skills": [
+        "Supply Chain",
+        "Six Sigma"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/55.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Dora Boehm",
+      "experience_years": 14,
+      "skills": [
+        "Six Sigma",
+        "Supply Chain",
+        "Team Leadership"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/39979934"
+    },
+    {
+      "id": 27,
+      "name": "Osvaldo Pfannerstill",
+      "experience_years": 9,
+      "skills": [
+        "Team Leadership",
+        "Supply Chain",
+        "Six Sigma"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/33271119"
+    },
+    {
+      "id": 28,
+      "name": "Camille Adams",
+      "experience_years": 9,
+      "skills": [
+        "Supply Chain",
+        "Lean Manufacturing"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/62616878"
+    },
+    {
+      "id": 29,
+      "name": "Margaret Schamberger",
+      "experience_years": 12,
+      "skills": [
+        "Supply Chain",
+        "Six Sigma",
+        "Team Leadership"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/20873099"
+    },
+    {
+      "id": 30,
+      "name": "Tracy Braun",
+      "experience_years": 2,
+      "skills": [
+        "Six Sigma",
+        "Lean Manufacturing",
+        "Supply Chain",
+        "Waste Management"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/63156604"
+    },
+    {
+      "id": 31,
+      "name": "Cornelius Adams",
+      "experience_years": 14,
+      "skills": [
+        "Team Leadership",
+        "Six Sigma",
+        "Waste Management",
+        "Supply Chain"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/9688299"
+    },
+    {
+      "id": 32,
+      "name": "Hilda Zboncak-Larson",
+      "experience_years": 5,
+      "skills": [
+        "Waste Management",
+        "OSHA Certified"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/32.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Theresa Dibbert",
+      "experience_years": 3,
+      "skills": [
+        "OSHA Certified",
+        "Lean Manufacturing",
+        "Supply Chain",
+        "Six Sigma"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/19913226"
+    },
+    {
+      "id": 34,
+      "name": "Rosendo Swift",
+      "experience_years": 7,
+      "skills": [
+        "Team Leadership",
+        "Six Sigma",
+        "OSHA Certified"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/21.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Oral Zemlak",
+      "experience_years": 13,
+      "skills": [
+        "Six Sigma",
+        "Supply Chain",
+        "Waste Management",
+        "OSHA Certified"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/6.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Lynn Walter",
+      "experience_years": 8,
+      "skills": [
+        "Waste Management",
+        "Team Leadership",
+        "Six Sigma",
+        "Supply Chain"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/43.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Miss Clarence Tromp V",
+      "experience_years": 11,
+      "skills": [
+        "Waste Management",
+        "OSHA Certified",
+        "Lean Manufacturing"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/19440432"
+    },
+    {
+      "id": 38,
+      "name": "Eleanore Swaniawski",
+      "experience_years": 10,
+      "skills": [
+        "Six Sigma",
+        "OSHA Certified"
+      ],
+      "avatar": "https://avatars.githubusercontent.com/u/60301917"
+    },
+    {
+      "id": 39,
+      "name": "Kristina Willms",
+      "experience_years": 6,
+      "skills": [
+        "OSHA Certified",
+        "Lean Manufacturing"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/35.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Maddison Sauer",
+      "experience_years": 11,
+      "skills": [
+        "Team Leadership",
+        "Supply Chain"
+      ],
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/67.jpg"
+    }
+  ],
+  "evaluations": [
+    {
+      "id": 1,
+      "candidate_id": 1,
+      "crisis_management_score": 60.4,
+      "sustainability_score": 90.5,
+      "team_motivation_score": 70.3,
+      "total_score": "73.7"
+    },
+    {
+      "id": 2,
+      "candidate_id": 2,
+      "crisis_management_score": 60.7,
+      "sustainability_score": 83,
+      "team_motivation_score": 84.1,
+      "total_score": "75.9"
+    },
+    {
+      "id": 3,
+      "candidate_id": 3,
+      "crisis_management_score": 63.4,
+      "sustainability_score": 57.2,
+      "team_motivation_score": 75.9,
+      "total_score": "65.5"
+    },
+    {
+      "id": 4,
+      "candidate_id": 4,
+      "crisis_management_score": 96.3,
+      "sustainability_score": 94.2,
+      "team_motivation_score": 85.7,
+      "total_score": "92.1"
+    },
+    {
+      "id": 5,
+      "candidate_id": 5,
+      "crisis_management_score": 79.7,
+      "sustainability_score": 75.1,
+      "team_motivation_score": 97.3,
+      "total_score": "84.0"
+    },
+    {
+      "id": 6,
+      "candidate_id": 6,
+      "crisis_management_score": 86.2,
+      "sustainability_score": 98.4,
+      "team_motivation_score": 77.1,
+      "total_score": "87.2"
+    },
+    {
+      "id": 7,
+      "candidate_id": 7,
+      "crisis_management_score": 65.5,
+      "sustainability_score": 85.5,
+      "team_motivation_score": 99.3,
+      "total_score": "83.4"
+    },
+    {
+      "id": 8,
+      "candidate_id": 8,
+      "crisis_management_score": 63.6,
+      "sustainability_score": 72.7,
+      "team_motivation_score": 90.4,
+      "total_score": "75.6"
+    },
+    {
+      "id": 9,
+      "candidate_id": 9,
+      "crisis_management_score": 96.8,
+      "sustainability_score": 96.3,
+      "team_motivation_score": 76.9,
+      "total_score": "90.0"
+    },
+    {
+      "id": 10,
+      "candidate_id": 10,
+      "crisis_management_score": 68.7,
+      "sustainability_score": 75.1,
+      "team_motivation_score": 76.8,
+      "total_score": "73.5"
+    },
+    {
+      "id": 11,
+      "candidate_id": 11,
+      "crisis_management_score": 65.3,
+      "sustainability_score": 50.9,
+      "team_motivation_score": 84.6,
+      "total_score": "66.9"
+    },
+    {
+      "id": 12,
+      "candidate_id": 12,
+      "crisis_management_score": 91.8,
+      "sustainability_score": 64.7,
+      "team_motivation_score": 75.9,
+      "total_score": "77.5"
+    },
+    {
+      "id": 13,
+      "candidate_id": 13,
+      "crisis_management_score": 92.1,
+      "sustainability_score": 50,
+      "team_motivation_score": 92,
+      "total_score": "78.0"
+    },
+    {
+      "id": 14,
+      "candidate_id": 14,
+      "crisis_management_score": 69.2,
+      "sustainability_score": 81.6,
+      "team_motivation_score": 71.1,
+      "total_score": "74.0"
+    },
+    {
+      "id": 15,
+      "candidate_id": 15,
+      "crisis_management_score": 88.9,
+      "sustainability_score": 70.7,
+      "team_motivation_score": 72.9,
+      "total_score": "77.5"
+    },
+    {
+      "id": 16,
+      "candidate_id": 16,
+      "crisis_management_score": 91.5,
+      "sustainability_score": 77.1,
+      "team_motivation_score": 95.8,
+      "total_score": "88.1"
+    },
+    {
+      "id": 17,
+      "candidate_id": 17,
+      "crisis_management_score": 82.6,
+      "sustainability_score": 87.8,
+      "team_motivation_score": 83.8,
+      "total_score": "84.7"
+    },
+    {
+      "id": 18,
+      "candidate_id": 18,
+      "crisis_management_score": 84.4,
+      "sustainability_score": 92.9,
+      "team_motivation_score": 81.2,
+      "total_score": "86.2"
+    },
+    {
+      "id": 19,
+      "candidate_id": 19,
+      "crisis_management_score": 88,
+      "sustainability_score": 84.6,
+      "team_motivation_score": 93.6,
+      "total_score": "88.7"
+    },
+    {
+      "id": 20,
+      "candidate_id": 20,
+      "crisis_management_score": 84.3,
+      "sustainability_score": 89.6,
+      "team_motivation_score": 70.8,
+      "total_score": "81.6"
+    },
+    {
+      "id": 21,
+      "candidate_id": 21,
+      "crisis_management_score": 84.9,
+      "sustainability_score": 74.2,
+      "team_motivation_score": 81.5,
+      "total_score": "80.2"
+    },
+    {
+      "id": 22,
+      "candidate_id": 22,
+      "crisis_management_score": 90.7,
+      "sustainability_score": 56.7,
+      "team_motivation_score": 83.4,
+      "total_score": "76.9"
+    },
+    {
+      "id": 23,
+      "candidate_id": 23,
+      "crisis_management_score": 79.8,
+      "sustainability_score": 77.7,
+      "team_motivation_score": 70.2,
+      "total_score": "75.9"
+    },
+    {
+      "id": 24,
+      "candidate_id": 24,
+      "crisis_management_score": 61.4,
+      "sustainability_score": 69.9,
+      "team_motivation_score": 71.7,
+      "total_score": "67.7"
+    },
+    {
+      "id": 25,
+      "candidate_id": 25,
+      "crisis_management_score": 69.9,
+      "sustainability_score": 97.8,
+      "team_motivation_score": 70.2,
+      "total_score": "79.3"
+    },
+    {
+      "id": 26,
+      "candidate_id": 26,
+      "crisis_management_score": 88.3,
+      "sustainability_score": 72.2,
+      "team_motivation_score": 91.3,
+      "total_score": "83.9"
+    },
+    {
+      "id": 27,
+      "candidate_id": 27,
+      "crisis_management_score": 62.4,
+      "sustainability_score": 63.4,
+      "team_motivation_score": 87.1,
+      "total_score": "71.0"
+    },
+    {
+      "id": 28,
+      "candidate_id": 28,
+      "crisis_management_score": 81.7,
+      "sustainability_score": 85.4,
+      "team_motivation_score": 94.8,
+      "total_score": "87.3"
+    },
+    {
+      "id": 29,
+      "candidate_id": 29,
+      "crisis_management_score": 86.9,
+      "sustainability_score": 50.5,
+      "team_motivation_score": 71.2,
+      "total_score": "69.5"
+    },
+    {
+      "id": 30,
+      "candidate_id": 30,
+      "crisis_management_score": 96.5,
+      "sustainability_score": 51.7,
+      "team_motivation_score": 87.1,
+      "total_score": "78.4"
+    },
+    {
+      "id": 31,
+      "candidate_id": 31,
+      "crisis_management_score": 62.7,
+      "sustainability_score": 66.7,
+      "team_motivation_score": 94.7,
+      "total_score": "74.7"
+    },
+    {
+      "id": 32,
+      "candidate_id": 32,
+      "crisis_management_score": 63.1,
+      "sustainability_score": 57.6,
+      "team_motivation_score": 75.1,
+      "total_score": "65.3"
+    },
+    {
+      "id": 33,
+      "candidate_id": 33,
+      "crisis_management_score": 70.6,
+      "sustainability_score": 87.5,
+      "team_motivation_score": 76.4,
+      "total_score": "78.2"
+    },
+    {
+      "id": 34,
+      "candidate_id": 34,
+      "crisis_management_score": 90,
+      "sustainability_score": 87.8,
+      "team_motivation_score": 87.7,
+      "total_score": "88.5"
+    },
+    {
+      "id": 35,
+      "candidate_id": 35,
+      "crisis_management_score": 88.3,
+      "sustainability_score": 78.4,
+      "team_motivation_score": 78.5,
+      "total_score": "81.7"
+    },
+    {
+      "id": 36,
+      "candidate_id": 36,
+      "crisis_management_score": 87.1,
+      "sustainability_score": 65.7,
+      "team_motivation_score": 73.6,
+      "total_score": "75.5"
+    },
+    {
+      "id": 37,
+      "candidate_id": 37,
+      "crisis_management_score": 62.8,
+      "sustainability_score": 97,
+      "team_motivation_score": 80.3,
+      "total_score": "80.0"
+    },
+    {
+      "id": 38,
+      "candidate_id": 38,
+      "crisis_management_score": 85.2,
+      "sustainability_score": 55.9,
+      "team_motivation_score": 77.8,
+      "total_score": "73.0"
+    },
+    {
+      "id": 39,
+      "candidate_id": 39,
+      "crisis_management_score": 65.7,
+      "sustainability_score": 75.5,
+      "team_motivation_score": 79,
+      "total_score": "73.4"
+    },
+    {
+      "id": 40,
+      "candidate_id": 40,
+      "crisis_management_score": 86,
+      "sustainability_score": 59.3,
+      "team_motivation_score": 76.2,
+      "total_score": "73.8"
+    }
+  ]
+}
